@@ -19,6 +19,6 @@ Hey there! I'm Himanshu, a 19-year-old B.Tech student passionate about coding an
 ## Connect with Me
 - 📧 Email: engr.himanshuu@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/engrhimanshuu
-- 🐦 Twitter: @engr_himanshuu
+- 🐦 Twitter: https://twitter.com/engr_himanshuu
 
 Feel free to explore my projects and journey into the world of coding! Let's connect and code together. 🤝✨
