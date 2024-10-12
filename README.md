@@ -3,7 +3,7 @@
 Hey there! I'm Himanshu, a 19-year-old B.Tech student passionate about coding and turning lines of code into creative solutions. 🌟
 
 ## About Me
-- 🎓 Currently in my 2nd year of B.Tech
+- 🎓 Currently in my 3rd year of B.Tech
 - 💻 Exploring the world of coding and programming
 - 🚀 Transforming code into creativity
 
